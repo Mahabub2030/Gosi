@@ -26,7 +26,7 @@ const TimelineCard = () => {
                 آخر اشتراك
               </span>
               <span className="text-base md:text-xl font-black text-[#0a1e3b]">
-                3,500.00 ريال
+                3,200.00 ريال
               </span>
             </div>
             <div className="h-9 w-9 md:h-12 md:w-12 bg-[#0070f3] rounded-full flex items-center justify-center text-white shadow-lg border-2 border-white shrink-0">
@@ -59,7 +59,7 @@ const TimelineCard = () => {
                 آخر اشتراك
               </span>
               <span className="text-base md:text-xl font-black ">
-                3,500.00 ريال
+                3,200.00 ريال
               </span>
             </div>
           </div>
@@ -76,7 +76,7 @@ const TimelineCard = () => {
                 آخر اشتراك
               </span>
               <span className="text-base md:text-xl font-black ">
-                3,500.00 ريال
+                3,200.00 ريال
               </span>
             </div>
           </div>

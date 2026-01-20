@@ -27,7 +27,7 @@ const SubscriptionCard = () => {
               </span>
               <div className="flex items-baseline gap-2">
                 <span className="text-3xl md:text-5xl font-black text-[#0a1e3b]">
-                  3,500.00
+                  3,200.00
                 </span>
                 <span className="text-xs md:text-base font-bold text-gray-400 italic">
                   ريال / الشهر

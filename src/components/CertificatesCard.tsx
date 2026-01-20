@@ -3,7 +3,7 @@ const CertificatesCard = () => {
     <div className="bg-[#01004E] rounded-[32px] md:rounded-[40px] p-0 shadow-lg h-56 md:h-64 flex flex-col overflow-hidden">
       <div className="py-3 md:py-4 text-center">
         <a
-          href="./src/Certificate45605.pdf" // path to your PDF
+          href="../Certificate45605.pdf" // path to your PDF
           download
           className="inline-block"
         >
